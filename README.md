@@ -1,1 +1,1 @@
-This repository includes a script that processes a heart disease dataset, handling missing values, outliers, and normalization. It also balances the dataset, splits it into training and test sets, and computes basic statistics, preparing the data for analysis or machine learning tasks.
+This script processes a heart disease dataset, handling missing values, outliers, and normalization. It also balances the dataset, splits it into training and test sets, and computes basic statistics, preparing the data for analysis or machine learning tasks.
